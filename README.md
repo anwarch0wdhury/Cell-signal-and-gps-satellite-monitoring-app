@@ -10,8 +10,8 @@ An Android application to monitor cell signal and Gps satellite location.
 ## Features 
 * Monitoring cell phone sim signal strength.
 * Monitoring Wifi signal strength.
-* Geting signal tower location and showing it in map.
-* Geting satellite location and name.
+* Getting signal tower location and showing it in map.
+* Getting satellite location and name.
 
 ## Description:
 * I have taken 3 permission in manifest file. They are ACCESS_FINE_LOCATION, INTERNET, ACCESS_WIFI_STATE. 
